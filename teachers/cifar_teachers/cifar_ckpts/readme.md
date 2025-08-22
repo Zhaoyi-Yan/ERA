@@ -1,0 +1,1 @@
+Just download the DIST cifar ckpts..
