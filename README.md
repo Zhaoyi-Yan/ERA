@@ -1,6 +1,6 @@
 # News
 This paper is accepted by TNNLS (IEEE Transactions on Neural Networks and Learning Systems) 2025.
-
+https://ieeexplore.ieee.org/document/11153524
 
 # Prepare the dataset
 When you prepare the imagenet dataset, the folder tree should be:
